@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tour-of-heroes-bd6d5": {
+      "hosting": {
+        "angular-tour-of-heroes": [
+          "tour-of-heroes-bd6d5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tour-of-heroes-bd6d5"
+  }
+}
